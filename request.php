@@ -40,6 +40,6 @@ $people->getPeople();
 // Create a person for each record
 // associate it to the higher class People
 // return data back to index.php
-
+//edit 
 
 ?>
